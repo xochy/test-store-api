@@ -88,9 +88,10 @@ origins = [
     "http://localhost:8080", # Si tu cliente web corre en este puerto
     "http://127.0.0.1",
     "http://127.0.0.1:5500", # Por ejemplo, si usas Live Server de VS Code
-    "null" # Permite el acceso desde archivos locales (origin 'null')
+    "null", # Permite el acceso desde archivos locales (origin 'null')
     # Puedes añadir más orígenes específicos aquí, como "http://tu-dominio.com"
     # O para permitir cualquier origen (NO RECOMENDADO EN PRODUCCIÓN): "*"
+    "https://test-store-front-production.up.railway.app"
 ]
 
 app.add_middleware(
