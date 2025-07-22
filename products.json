@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Teclado Mecánico",
+        "precio": 85.99,
+        "descripcion": "Teclado con switches Cherry MX Red.",
+        "id": "c7e0f2a4-b6d8-4f1e-9c2a-3b4d5e6f7a8b"
+    },
+    {
+        "nombre": "Ratón Inalámbrico",
+        "precio": 45.5,
+        "descripcion": "Ratón ergonómico con conexión Bluetooth.",
+        "id": "d1f2e3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6g"
+    },
+    {
+        "nombre": "Monitor 4K",
+        "precio": 299.99,
+        "descripcion": "Monitor de 27 pulgadas con resolución 4K.",
+        "id": "e2f3a4b5-c6d7-8e9f-0a1b-2c3d4e5f6g7h"
+    },
+    {
+        "nombre": "Pizza",
+        "precio": 233.0,
+        "descripcion": "pizza de peperoni",
+        "id": "1052625e-4061-4689-87a0-e22996f80474"
+    }
+]

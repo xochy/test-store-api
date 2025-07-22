@@ -1,0 +1,29 @@
+[
+    {
+        "id": "e9a0f1b2-c3d4-5e6f-7a8b-9c0d1e2f3a4b",
+        "products": [
+            "c7e0f2a4-b6d8-4f1e-9c2a-3b4d5e6f7a8b"
+        ],
+        "fecha": "2024-07-21T23:21:05.123456",
+        "estado": "pendiente"
+    },
+    {
+        "id": "f1a2b3c4-d5e6-7f8g-9h0i-1j2k3l4m5n6o",
+        "products": [
+            "d1f2e3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6g",
+            "e2f3a4b5-c6d7-8e9f-0a1b-2c3d4e5f6g7h"
+        ],
+        "fecha": "2024-07-22T10:15:30.654321",
+        "estado": "completado"
+    },
+    {
+        "id": "29b5f6d4-b8da-4913-b632-fdc09d6d5d16",
+        "products": [
+            "1052625e-4061-4689-87a0-e22996f80474",
+            "e2f3a4b5-c6d7-8e9f-0a1b-2c3d4e5f6g7h",
+            "c7e0f2a4-b6d8-4f1e-9c2a-3b4d5e6f7a8b"
+        ],
+        "fecha": "2025-07-22T00:04:16.880555",
+        "estado": "pendiente"
+    }
+]
